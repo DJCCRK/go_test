@@ -1,9 +1,7 @@
 package main
 
-import (
-	"go_test/test1"
-)
+import "go_test/test1"
 
 func main() {
-	test1.Fetch()
+	test1.Surface()
 }

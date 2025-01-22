@@ -11,4 +11,5 @@ const (
 
 func Test() {
 	fmt.Printf("%d\n", Monday)
+	fmt.Println("test1")
 }
